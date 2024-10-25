@@ -13,8 +13,7 @@
      ├── lazy-lock.json
      └── lua
         ├── config/  
-        └── plugins/
-    
+        └── plugins/ 
 ```
 
 - Copy contents to ```~/.config/nvim```. To demonstrate: 
