@@ -17,7 +17,7 @@
     
 ```
 
-- Copy contents to ```~/.config/nvim```.
+- Copy contents to ```~/.config/nvim```. To demonstrate: 
 ```cp -r nvim4j-config/* ~/.config/nvim```
 
 - Now open any desired directory, and open neovim with or without specifying any file to edit.
