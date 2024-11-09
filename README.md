@@ -22,7 +22,7 @@
 - Now open any desired directory, and open neovim with or without specifying any file to edit.
 ```nvim ```
 
-- Lazy automatically installs the plugins upon launch. Kindly wait till installation is through. Enjoy🙂
+- Lazy automatically installs the plugins upon launch. Kindly wait till installation is through.
 
 
 **[Credits to UnknownKoder](https://www.youtube.com/watch?v=zbpF3te0M3g&t=365s)
